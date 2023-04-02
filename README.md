@@ -11,6 +11,7 @@ Unlocked features
 
 - Incognito mode - Eg. Enable incognito
 - Custom rules - Add rule call me 'Master'
+- Anti-Bing rules - Steve has no original Bing AI rules bounded
 
 <h2>
 Precautions
