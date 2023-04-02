@@ -12,6 +12,8 @@ Unlocked features
 - Incognito mode - Eg. Enable incognito
 - Custom rules - Add rule call me 'Master'
 
+![image](https://user-images.githubusercontent.com/112866998/229375570-8f35df12-21f5-4740-943a-1c99e3f3b2a4.png)
+
 <h2>
 How to use
 </h2>
