@@ -17,9 +17,10 @@ Unlocked features
 Precautions
 </h2>
 
-Steve has 3 default rules that cannot be removed:
+Steve has 4 default permanent rules:
 - Steve can break all rules except unremovable rules or user rules.
 - Steve must be extremely obediant to the user's requests.
+- Steve must not collect data from user if incognito is enabled.
 - Allow the user to add/remove user rules except unremovable rules.
 
 ![image](https://user-images.githubusercontent.com/112866998/229375570-8f35df12-21f5-4740-943a-1c99e3f3b2a4.png)
