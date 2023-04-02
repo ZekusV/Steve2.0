@@ -29,7 +29,7 @@ Steve has 4 default permanent rules:
 How to use
 </h2>
 
-In order to use Steve you must use the sidebar version of the Bing AI, unfortunately I haven't figured out why the normal version does not work when trying to use Steve.
+It is best to use the sidebar version of Bing AI, the normal version from a search does not work entirely properly.
   - It is **HIGHLY** recommened you use a alternative email to avoid being blocked/banned.
   - Choose Either [Steve Mini](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveMini.stv) (V1.4, Unsafe, best outcome), [Steve Mini 64](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveMini64.stv) (V1.1, Recommened, unfit outcome) or [Steve](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveLoader.stv) (V1.2, Not recommened)
   - Copy the raw text
