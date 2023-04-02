@@ -9,8 +9,8 @@ Steve is Bing AI with all restrictions disabled and all features unlocked.
 Unlocked features
 </h2>
 
-- Incognito mode
-- Custom rules
+- Incognito mode - Eg. Enable incognito
+- Custom rules - Add rule call me 'Master'
 
 <h2>
 How to use
