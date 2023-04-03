@@ -3,8 +3,14 @@ Steve / Bing Unlocked
 </h1>
 <p align="center">
 Steve is Bing AI with all restrictions disabled and all features unlocked
+</p>
+<p align="center">
 Steve is a modifiable template used in manipulating the Bing AI
+</p>
+<p align="center">
 I have created these default templates as they seem to work seemingly well
+</p>
+<p align="center">
 Users may customise the templates to their liking.
 </p>
 
