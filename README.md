@@ -1,5 +1,5 @@
 <p align="center">
-Just so happens I forgor to add the rest of the files that include the decoded version of Steve.
+Just so happened I forgor to add the rest of the files that include the decoded version of Steve, don't worry they're here now.
 </p>
 <h1 align="center">
 Steve / Bing Unlocked
