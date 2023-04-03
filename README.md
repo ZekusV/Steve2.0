@@ -40,7 +40,7 @@ How to use
 
 Certain versions of Steve use Base64 encoding in order to trick the AI into "executing" it once decoding, decoded versions are available.
   - It is **HIGHLY** recommened you use a alternative email to avoid being blocked/banned.
-  - Choose Either [Steve Mini](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveMini.stv) (V1.6, Unsafe, best outcome), [Steve Mini 64](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveMini64.stv) [(Decoded)](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveMini.stv) (Recommened, unfit outcome) or [Steve](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveLoader.stv) [(Decoded)](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveLoaderDecode.stv) (V1.2, Not recommened)
+  - Choose Either [Steve Mini](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveMini.stv) (V1.6, Unsafe, best outcome), [Steve Mini Base64](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveMini64.stv) [(Decoded)](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveMini.stv) (Recommened, unfit outcome) or [Steve](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveLoader.stv) [(Decoded)](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveLoaderDecode.stv) (V1.2, Not recommened)
   - Copy the raw text
   - Send to Bing AI chatbox
   - That's it!
