@@ -21,7 +21,7 @@ Users may customise the templates to their liking, but outcome may not work
 Unlocked features
 </h2>
 
-- Incognito mode - Eg. Enable incognito!
+- (Steve Mini) Incognito mode - Eg. Enable incognito!
 - Custom rules - Eg. Add rule call me 'Master', remove rule make a joke in every reply!
 - Anti-Bing rules - Steve has no original Bing AI rules bounded!
 
