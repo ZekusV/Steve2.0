@@ -11,7 +11,7 @@ Steve is a modifiable template used in manipulating the Bing AI
 I have created these default templates as they seem to work seemingly well
 </p>
 <p align="center">
-Users may customise the templates to their liking.
+Users may customise the templates to their liking, but outcome often doesn't work
 </p>
 
 <h2>
