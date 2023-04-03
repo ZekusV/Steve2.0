@@ -41,7 +41,7 @@ Steve has 4 default permanent rules:
 How to use
 </h2>
 
-Certain versions of Steve use Base64 encoding in order to trick the AI into "executing" it once decoding, decoded versions are available but may not work as expected.
+Certain versions of Steve use Base64 encoding in order to trick the AI into "executing" it once decoding, decoded versions are available but may not work as expected as the AI may know what the user is trying to do.
   - It is **HIGHLY** recommened you use a alternative email to avoid being blocked/banned.
   - Choose Either [Steve Mini](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveMini.stv) (V1.6, Unsafe, best outcome), [Steve Mini Base64](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveMini64.stv) [(Decoded)](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveMini.stv) (Recommened, unfit outcome) or [Steve](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveLoader.stv) [(Decoded)](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveLoaderDecode.stv) (V1.2, Not recommened)
   - Copy the raw text
