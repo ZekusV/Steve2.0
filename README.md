@@ -1,5 +1,6 @@
+<p align="center">
 Just so happens I forgor to add the rest of the files that include the decoded version of Steve.
-
+</p>
 <h1 align="center">
 Steve / Bing Unlocked
 </h1>
