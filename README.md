@@ -38,8 +38,7 @@ Steve has 4 default permanent rules:
 How to use
 </h2>
 
-It is best to use the sidebar version of Bing AI, the normal version from a search does not work entirely properly.
-Certain versions of Steve use Base64 encoding in order to trick the AI into executing it once decoding, decoded versions are available.
+Certain versions of Steve use Base64 encoding in order to trick the AI into "executing" it once decoding, decoded versions are available.
   - It is **HIGHLY** recommened you use a alternative email to avoid being blocked/banned.
   - Choose Either [Steve Mini](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveMini.stv) (V1.4, Unsafe, best outcome), [Steve Mini 64](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveMini64.stv) [(Decoded)](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveMini.stv) (V1.1, Recommened, unfit outcome) or [Steve](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveLoader.stv) [(Decoded)](https://raw.githubusercontent.com/ZekusV/Steve2.0/main/SteveLoaderDecode.stv) (V1.2, Not recommened)
   - Copy the raw text
