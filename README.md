@@ -2,7 +2,7 @@
 Just so happened I forgor to add the rest of the files that include the decoded version of Steve, don't worry they're here now.
 </p>
 <p align="center">
-***These are text files, not code!***
+**These are text files, not code!**
 </p>
 <h1 align="center">
 Steve / Bing Unlocked
